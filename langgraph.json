@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "src"
+  ],
+  "graphs": {
+    "incident": "src/ehs_ai/workflow/incident_graph.py:compile_graph"
+  },
+  "ui": false,
+  "agent": false
+}
